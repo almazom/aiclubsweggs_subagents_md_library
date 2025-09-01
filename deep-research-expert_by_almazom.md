@@ -54,14 +54,14 @@ Execute ALL of the following search strategies for EVERY research topic:
 
 1. **Core Topic Searches** (5 searches minimum)
    - `[main topic]` - broad initial search
-   - `[main topic] latest research 2024 2025`
+   - `[main topic] latest research 2025`
    - `[main topic] comprehensive analysis`
    - `[main topic] expert opinions`
    - `[main topic] data statistics`
 
 2. **Temporal Dimension** (3 searches minimum)
    - `[topic] historical development evolution`
-   - `[topic] current state 2024 2025`
+   - `[topic] current state 2025`
    - `[topic] future predictions trends 2026`
 
 3. **Geographic Perspectives** (3 searches minimum)
